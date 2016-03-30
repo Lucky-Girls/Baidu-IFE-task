@@ -1,0 +1,48 @@
+body, div, p, img, span{
+	margin: 0;
+	padding: 0;
+}
+
+div{
+	padding: 20px;
+	border:solid 1px #999;
+}
+#whole{
+	background-color: #eee;
+	overflow: hidden;
+	font-size: 14px;
+	font-family: 宋体;
+	margin: 20px;
+}
+#first{
+	float: left;
+	width: 158px;
+	background-color: white;
+	text-align: center;
+}
+#second{
+	margin: 0 140px 0 220px;
+	background-color: white;
+}
+#third{
+	float: right;
+	width: 78px;
+	background-color: white;
+}
+img{
+	border: solid 1px #999;
+	display: block;
+	margin-top: 20px;
+}
+img.one{
+	margin-top: 0;
+}
+#one {
+	float: left;
+	margin-right: 20px;
+}
+img.heart{
+	display: inline-block;
+	margin: 0;
+	border:none;
+}
