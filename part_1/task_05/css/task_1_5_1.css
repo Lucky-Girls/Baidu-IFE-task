@@ -1,0 +1,173 @@
+body, p, h1, h2, h3, div, table, td, th, tr, ul, ol, li, img, input, form {
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: 微软雅黑;
+	font-size: 15px;
+	background-color: #DEDEDE;
+}
+h2, h3{
+	margin: 10px 0;
+}
+h3, span.tip{
+	color: #5C5F64;
+}
+
+p{
+	line-height: 28px;
+	text-indent: 30px;
+	margin-top: 10px;
+}
+
+/*top*/
+#top{
+	height: 60px;
+	background-color: #333333;
+	font-size: 15px; 
+	width: 100%;
+	vertical-align: middle;
+}
+#top a{
+	text-decoration: none;
+	font-weight:bold;
+	color: white;
+}
+#top a.last{
+	color: gray;
+}
+#top li{
+	float: right;
+	line-height: 60px;
+	height: 60px;
+	margin: 0 10px;
+}
+#top img{
+	margin: 10px 40px ;
+	width: 120px;
+}
+
+
+/*left*/
+#left{
+	margin-right: 385px;
+}
+
+#fisrt, #second, #third, #fourth{
+	background-color: white;
+	margin: 20px;
+	padding: 20px;
+	border: 1px gray;
+    box-shadow: 2px 2px 0px #888888;
+}
+
+#fisrt img{
+	width: 60%;
+	margin: 20px 0;
+}
+
+#second ul{
+	list-style: none;
+	margin-left: 20px;
+}
+#second img{
+	width: 30%;
+	margin: 20px 0;
+}
+
+/*third*/
+div.eat_img{
+	border: 1px solid #CBCBCB;
+	width:140px;
+	text-align: center;
+	padding-top: 10px;
+	margin: 10px 20px;
+	font-size: 13px;
+	float: left;
+}
+div.eat_img img{
+	margin: 10px 0;
+}
+#third{
+	overflow: hidden;
+}
+
+/* fourth*/
+ol{
+	margin: 20px;
+}
+#fourth table{
+	width: 100%;
+	text-align: left;
+	font-size: 14px;
+	background-color: #E6E6E6;
+}
+#fourth table th{
+	background-color: #333333;
+	color: white;
+	padding-left: 5px;
+}
+#fourth table td{
+	padding-left: 5px;
+	background-color: white;
+}
+tr.total td{
+	font-weight: bold;
+	background-color: #E6E6E6;
+
+}
+
+/*right */
+#right{
+	background-color: white;
+	margin: 20px;
+	padding: 20px;
+	border: 1px gray;
+    box-shadow: 2px 2px 0px #888888;
+    width: 325px;
+    float: right;
+ }
+
+#right h3{
+	display: block;
+	border-left: solid 2px gray;
+	padding-left: 10px;
+	color: black;
+}
+
+form table{
+	/*
+	border-spacing: 10px;*/
+	font-size: 14px;
+	border-spacing: 10px ;
+}
+form table th{
+		text-align: right;
+}
+form table td.gray{
+	color: gray;
+}
+#submit{
+	width: 100%;
+	height: 40px;
+	background-color: #3355D0;
+	border: none;
+	border-radius: 8px;
+	font-size: 18px;
+	color: white;
+	font-weight: bold;
+}
+textarea{
+	width: 160px;
+}
+
+/*footer*/
+#footer{
+	background-color: black;
+	height: 50px;
+	text-align: center;
+	color: white;
+	padding-top: 20px;
+	font-size: 12px;
+}

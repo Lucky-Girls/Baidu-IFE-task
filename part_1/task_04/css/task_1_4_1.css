@@ -1,0 +1,35 @@
+body, div{
+	margin: 0;
+	padding: 0;
+}
+
+div.outer{
+	background-color: #CCC;
+	width: 400px;
+	height: 200px;
+	margin: -100px 0 0 -200px;
+	overflow: hidden;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+}
+#all{
+	display: table;
+	height: 100%;
+}
+#left{
+	top: -50px;
+	left: -50px;
+}
+#right{
+	top: 150px;
+	left: 350px;
+}
+div.circle{
+	border-radius: 50%;
+	border-color: black;
+	width: 100px;
+	height: 100px;
+	background-color: #FC0;
+	position: absolute;
+}

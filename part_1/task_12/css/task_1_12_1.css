@@ -1,0 +1,100 @@
+ html,head, body, div ,table, th, tr, td, a, ul, li {
+            margin: 0;
+            padding: 0;
+            font-size: 14px;
+}
+
+/*first*/
+table{
+	text-align: left;
+	font-weight: bold;
+}
+table thead{
+	color: white;
+	background-color: black;
+}
+table tr:nth-child(even){
+	background-color: #ccc;
+}
+table tbody tr:nth-child(-n+3){
+	color: red;
+}
+
+/*second*/
+#change_width{
+	-webkit-transition-duration: 400ms;
+	-webkit-transition-property: width;
+	-webkit-transition-timing-function: ease;
+	-moz-transition-duration: 400ms;
+	-moz-transition-property: width;
+	-moz-transition-timing-function: ease;
+	-o-transition-duration: 400ms;
+	-o-transition-property: width;
+	-o-transition-timing-function: ease;
+	width: 80px;
+	border-radius: 2px;
+	font-size: 14px;
+	height: 22px;
+	margin: 50px 0;
+    border-color: #ccc;
+}
+#change_width:focus {
+	width: 160px;
+	box-shadow: 0 0 10px orange;
+	border-color: orange;
+}
+
+/*third*/
+
+@keyframes slideleft {
+    0% { transform:translateX(-100%); }
+    100% { transform:translateX(0); }
+}
+
+#third{
+	position: absolute;
+}
+#third ul{
+	width: 240px;
+	height: 100px;
+	overflow: hidden;
+}
+.wrap li{
+	list-style: none;
+	display: inline-block;
+	width: 240px;
+	height: 100px;
+	position: absolute;
+	transform:translateX(0);
+}
+
+#one{
+	background-color: green;
+}
+#two{
+	background-color: blue;
+}
+#three{
+	background-color: red;
+}
+.lable{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	z-index: 100;
+}
+.lable a{
+	display: inline-block;
+	width: 25px;
+	height: 25px;
+	background-color: #fff;
+	opacity: 0.5;
+	text-decoration: none;
+	text-align: center;
+	line-height: 25px;
+}
+:target{
+	animation: slideleft .5s forwards;
+	z-index: 2;
+}
+

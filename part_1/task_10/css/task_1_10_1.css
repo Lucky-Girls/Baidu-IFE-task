@@ -1,0 +1,41 @@
+ html, body, div {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+.section {
+	border: solid 1px #979797;
+	padding: 20px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	flex-flow: row wrap;
+}
+.section div{
+	width: 150px;
+	border: solid 1px #f00;
+}
+.first{
+	height: 120px;
+}
+.second{
+	height: 100px;
+}
+.third{
+	height: 40px;
+}
+.section .fourth{
+	border-color: #0f0;
+	height: 200px;
+}
+
+ @media (max-width: 640px){
+	.fourth{
+		order:-1;
+		margin-bottom: 20px;
+	}
+ }
+
+
+
