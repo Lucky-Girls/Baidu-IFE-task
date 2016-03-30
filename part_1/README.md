@@ -47,7 +47,37 @@
 ##**Demo**
 
 task01 任务要求地址：http://ife.baidu.com/task/detail?taskId=1 <br/>
-task01     代码地址：https://github.com/Lucky-Girls/baidu-ife/tree/master/part_1/task_01 <br/>
+task01     代码地址：https://github.com/Lucky-Girls/baidu-ife/tree/gh-pages/part_1/task_01 <br/>
 task01 在线预览地址：http://Lucky-Girls.github.io/baidu-ife/part_1/task_01/index.html
 
+task02 任务要求地址：http://ife.baidu.com/task/detail?taskId=2 <br/>
+task02     代码地址：https://github.com/Lucky-Girls/baidu-ife/tree/gh-pages/part_1/task_02 <br/>
+task02 在线预览地址：http://Lucky-Girls.github.io/baidu-ife/part_1/task_02/index.html
 
+task03 任务要求地址：http://ife.baidu.com/task/detail?taskId=3 <br/>
+task03     代码地址：https://github.com/Lucky-Girls/baidu-ife/tree/gh-pages/part_1/task_03 <br/>
+task03 在线预览地址：http://Lucky-Girls.github.io/baidu-ife/part_1/task_03/index.html
+
+task04 任务要求地址：http://ife.baidu.com/task/detail?taskId=4 <br/>
+task04     代码地址：https://github.com/Lucky-Girls/baidu-ife/tree/gh-pages/part_1/task_04 <br/>
+task04 在线预览地址：http://Lucky-Girls.github.io/baidu-ife/part_1/task_04/index.html
+
+task05 任务要求地址：http://ife.baidu.com/task/detail?taskId=5 <br/>
+task05     代码地址：https://github.com/Lucky-Girls/baidu-ife/tree/gh-pages/part_1/task_05 <br/>
+task05 在线预览地址：http://Lucky-Girls.github.io/baidu-ife/part_1/task_05/index.html
+
+task06 任务要求地址：http://ife.baidu.com/task/detail?taskId=6 <br/>
+task06     代码地址：https://github.com/Lucky-Girls/baidu-ife/tree/gh-pages/part_1/task_06 <br/>
+task06 在线预览地址：http://Lucky-Girls.github.io/baidu-ife/part_1/task_06/index.html
+
+task08 任务要求地址：http://ife.baidu.com/task/detail?taskId=8 <br/>
+task08     代码地址：https://github.com/Lucky-Girls/baidu-ife/tree/gh-pages/part_1/task_08 <br/>
+task08 在线预览地址：http://Lucky-Girls.github.io/baidu-ife/part_1/task_08/index.html
+
+task10 任务要求地址：http://ife.baidu.com/task/detail?taskId=10 <br/>
+task10     代码地址：https://github.com/Lucky-Girls/baidu-ife/tree/gh-pages/part_1/task_10 <br/>
+task10 在线预览地址：http://Lucky-Girls.github.io/baidu-ife/part_1/task_10/index.html
+
+task12 任务要求地址：http://ife.baidu.com/task/detail?taskId=12 <br/>
+task12     代码地址：https://github.com/Lucky-Girls/baidu-ife/tree/gh-pages/part_1/task_12 <br/>
+task12 在线预览地址：http://Lucky-Girls.github.io/baidu-ife/part_1/task_12/index.html
