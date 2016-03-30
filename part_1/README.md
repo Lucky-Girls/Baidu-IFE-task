@@ -47,6 +47,7 @@
 ##**Demo**
 
 task01 任务要求地址：http://ife.baidu.com/task/detail?taskId=1 <br/>
-task01 在线预览地址：
+task01     代码地址：https://github.com/Lucky-Girls/baidu-ife/tree/master/part_1/task_01 <br/>
+task01 在线预览地址：http://Lucky-Girls.github.io/baidu-ife/part_1/task_01/index.html
 
 
