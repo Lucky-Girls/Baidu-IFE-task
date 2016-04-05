@@ -1,0 +1,9 @@
+#que_show div{
+	height: 20px;
+	color: white;
+	background: pink;
+	display: inline-block;
+	margin: 10px;
+	padding: 10px;
+	font-weight: bold;
+}
