@@ -62,7 +62,7 @@ function searchContent(){
 
 	for(var i = 0; i < chartData.length; i++){
 		oDiv.className ='';
-		if(chartData[i].indexOf(searchContent.value) > 0){
+		if(chartData[i].indexOf(searchContent.value) >= 0){
 			oDiv[i].className += "select";
 		}
 	}
