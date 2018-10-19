@@ -1,0 +1,38 @@
+div {
+	display: flex;
+	justify-content: space-around;
+	border: 2px solid;
+	align-items: center;
+	background-color: white;
+	padding: 5px;
+	margin: 5px;
+}
+
+div.look{
+	margin-top: 20px;
+	display: block;
+	border: none;
+}
+
+.first{
+	height: 350px;
+}
+.second {
+	height: 300px;
+}
+.third {
+	height: 250px;
+}
+.fourth {
+	height: 200px;
+}
+.fifth{
+	height: 150px;
+}
+
+.show{
+	background-color: red;
+}
+.mark{
+	background-color: blue;
+}

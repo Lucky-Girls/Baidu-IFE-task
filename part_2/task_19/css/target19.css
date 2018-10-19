@@ -1,0 +1,20 @@
+body{
+	text-align:center;
+}
+#que_show div{
+	color: white;
+	width: 20px;
+	background: pink;
+	display: inline-block;
+	margin: 1px;
+	font-weight: bold;
+	text-align: center;
+}
+
+#que_show{
+	height: 200px;
+	display: flex;
+	align-items: flex-end;
+    justify-content: center;
+}
+

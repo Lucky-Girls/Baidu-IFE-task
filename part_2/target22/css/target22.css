@@ -1,0 +1,33 @@
+div {
+	display: flex;
+	justify-content: space-around;
+	border: 1px solid;
+	align-items: center;
+	background-color: white;
+}
+
+div.look{
+	margin-top: 20px;
+	display: block;
+	border: none;
+}
+.first {
+	width: 800px;
+	height: 400px;
+}
+.second {
+	width: 350px;
+	height: 300px;
+}
+.third {
+	width: 150px;
+	height: 150px;
+}
+.fourth {
+	width: 60px;
+	height: 60px;
+}
+
+.show{
+	background-color: red;
+}
